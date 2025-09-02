@@ -10,7 +10,7 @@ import com.ruoyi.common.security.annotation.EnableRyFeignClients;
  * 
  * @author ruoyi
  */
-@EnableRyFeignClients
+@EnableRyFeignClients(basePackages = "com.ruoyi.system.api")
 @SpringBootApplication(exclude = {DataSourceAutoConfiguration.class })
 public class RuoYiAuthApplication
 {
