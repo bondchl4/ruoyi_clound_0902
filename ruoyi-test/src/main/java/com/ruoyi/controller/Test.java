@@ -7,6 +7,5 @@ public class Test {
             System.out.println(s+""+"false");
         }
         System.out.println(s);
-        System.out.println(s);
     }
 }
