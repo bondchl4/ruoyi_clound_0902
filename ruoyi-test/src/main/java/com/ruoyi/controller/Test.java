@@ -1,11 +1,41 @@
 package com.ruoyi.controller;
 
-public class Test {
+
+import com.ruoyi.vo.Product;
+
+
+import java.lang.reflect.Array;
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.concurrent.ExecutionException;
+import java.util.concurrent.atomic.AtomicInteger;
+
+class Test {
     public static void main(String[] args) {
-        String s=String.format("你来自%s，我叫%s","中国","charles");
-        if(true){
-            System.out.println(s+""+"false");
+
+        String name = "charles";
+        String password = "123456";
+
+// 假设这外面有一个循环（虽然你的代码中没有显示）
+        for (int i = 0; i < 2; i++) {  // 只执行一次的循环
+            switch (name) {
+                case "charles":
+                    System.out.println(name);  // 输出: charles
+                    continue;  // 跳过循环的剩余部分，直接开始下一次迭代
+                case "cha":
+                    System.out.println("name");  // 不会执行，因为continue跳过了
+            }
+            System.out.println("这行不会执行");  // 被continue跳过了
         }
-        System.out.println(s);
+
     }
 }
+
+
+
+
+
+
+
