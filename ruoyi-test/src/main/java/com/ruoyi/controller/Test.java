@@ -18,7 +18,7 @@ class Test {
         String name = "charles";
         String password = "123456";
 
-// 假设这外面有一个循环（虽然你的代码中没有显示）
+// 给switch语句添加注释
         for (int i = 0; i < 2; i++) {  // 只执行一次的循环
             switch (name) {
                 case "charles":
