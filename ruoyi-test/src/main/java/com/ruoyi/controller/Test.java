@@ -21,6 +21,7 @@ class Test {
         String password2 = "123456";
         String password4 = "123456";
         String password5= "123456";
+        String password6= "123456";
 
 
         for (int i = 0; i < 2; i++) {  // 只执行一次的循环
