@@ -27,6 +27,7 @@ public interface RemoteUserService
      *
      * @param username 用户名
      * @param source 请求来源
+     *                * @param source 请求来源
      * @return 结果
      */
     @GetMapping("/user/info/{username}")
