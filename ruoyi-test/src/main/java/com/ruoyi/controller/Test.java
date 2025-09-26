@@ -18,7 +18,7 @@ class Test {
         String name = "charles";
         String password = "123456";
 
-// 给switch语句添加注释
+
         for (int i = 0; i < 2; i++) {  // 只执行一次的循环
             switch (name) {
                 case "charles":
