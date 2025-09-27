@@ -20,7 +20,6 @@ class Test {
         String name2 = "charles";
         String name3 = "charles";
         String name5 = "charles";
-        String name6 = "charles";
 
 
 
