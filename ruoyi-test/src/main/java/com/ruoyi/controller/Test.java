@@ -19,16 +19,7 @@ class Test {
         String password = "123456";
         String password1 = "123456";
         String password2 = "123456";
-        String password10 = "123456";
-        String password30 = "123456";
-        String password40 = "123456";
-        String password50 = "123456";
-        String password60 = "123456";
-        String password70 = "123456";
-        String password80 = "123456";
-        String password90 = "123456";
-        String password100 = "123456";
-        String password110 = "123456";
+
 
 
 
