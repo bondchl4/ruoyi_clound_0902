@@ -17,6 +17,7 @@ class Test {
         String name60 = "charles";
         String name80 = "charles";
 
+        String name70 = "charles";
 
 
 
