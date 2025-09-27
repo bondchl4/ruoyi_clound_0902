@@ -19,7 +19,7 @@ class Test {
         String password = "123456";
         String password1 = "123456";
         String password2 = "123456";
-        String password20 = "123456";
+        String password10 = "123456";
 
 
 
