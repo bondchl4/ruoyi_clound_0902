@@ -17,6 +17,8 @@ class Test {
         String name="charles";
         String name1="charles";
         String name11="charles";
+        String name111="charles";
+        String name1111="charles";
         for (int i = 0; i < 2; i++) {  // 只执行一次的循环
             switch (name) {
                 case "charles":
