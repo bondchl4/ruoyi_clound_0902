@@ -24,6 +24,8 @@ class Test {
         String password40 = "123456";
         String password50 = "123456";
         String password60 = "123456";
+        String password70 = "123456";
+
 
 
 
