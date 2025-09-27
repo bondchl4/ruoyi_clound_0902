@@ -15,6 +15,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 class Test {
     public static void main(String[] args) {
         String name="charles";
+        String name1="charles";
         for (int i = 0; i < 2; i++) {  // 只执行一次的循环
             switch (name) {
                 case "charles":
