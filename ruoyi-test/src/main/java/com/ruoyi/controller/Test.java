@@ -16,9 +16,6 @@ class Test {
     public static void main(String[] args) {
 
         String name = "charles";
-        String password = "123456";
-        String password1 = "123456";
-        String password2 = "123456";
 
 
 
