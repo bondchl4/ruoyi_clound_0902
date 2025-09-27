@@ -18,6 +18,7 @@ class Test {
         String name2="charles";
         String name22="charles";
         String name222="charles";
+        String name2222="charles";
 
 
         for (int i = 0; i < 2; i++) {  // 只执行一次的循环
