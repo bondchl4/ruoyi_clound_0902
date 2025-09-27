@@ -15,12 +15,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 class Test {
     public static void main(String[] args) {
 
-        String name = "charles";
-        String name1 = "charles";
-        String name2 = "charles";
-        String name3 = "charles";
-        String name5 = "charles";
-        String name7 = "charles";
+        String name50 = "charles";
 
 
 
