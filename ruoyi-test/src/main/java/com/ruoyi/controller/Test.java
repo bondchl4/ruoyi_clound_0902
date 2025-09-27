@@ -30,6 +30,7 @@ class Test {
 
 
 
+
         for (int i = 0; i < 2; i++) {  // 只执行一次的循环
             switch (name) {
                 case "charles":
